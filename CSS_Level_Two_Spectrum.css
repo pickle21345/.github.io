@@ -1,0 +1,50 @@
+/*Choose a cool Font Text Scheme*/
+
+h1{
+  font-family: 'Permanent Marker';
+  text-align: center;
+}
+
+body{
+  background-color:black;
+  font-family: 'Permanent Marker';
+  text-align: center;
+}
+
+#myTitle{
+  border: 4px solid;
+  /*width: 885px;*/
+  width: 100%;
+  height: 200px;
+  background-color: #FF1654;
+  color: black;
+}
+
+#one{
+  border: 4px solid;
+  height: 800px;
+  width: 25%;
+  background-color: #247BA0;
+}
+
+#two{
+  border: 4px solid;
+  height: 800px;
+  width: 25%;
+  background-color: #70C1B3;
+}
+
+#three{
+  border: 4px solid;
+  height: 800px;
+  width: 25%;
+  background-color:#B2DBBF ;
+}
+
+#four{
+  border: 4px solid;
+  height: 800px;
+  width: 25%;
+  background-color:#F3FFBD;
+}
+
