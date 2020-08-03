@@ -20,6 +20,10 @@ body{
   color: black;
 }
 
+.art{
+  text-align: center;
+}
+
 #one{
   border: 4px solid;
   height: 800px;
